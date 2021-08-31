@@ -1,56 +1,56 @@
 ,Activity,class,type,CV
-0,Glucose,dynamic,continuous,0.13171069837809268
-1,Abnormal Glucose,dynamic,categorical,0.11016661221285999
-2,Potassium,dynamic,continuous,0.05382231206268226
-3,Abnormal Potassium,dynamic,categorical,0.12268573326792358
-4,Sodium,dynamic,continuous,0.010231421556475592
-5,Abnormal Sodium,dynamic,categorical,0.10403246670360596
-6,Chloride,dynamic,continuous,0.016847792249598783
-7,Abnormal Chloride,dynamic,categorical,0.11445208918023465
-8,Creatinine,dynamic,continuous,0.09007769954627699
-9,Abnormal Creatinine,dynamic,categorical,0.051458573370646334
-10,Urea Nitrogen,dynamic,continuous,0.12995997379821708
-11,Abnormal Urea Nitrogen,dynamic,categorical,0.048883022126749325
-12,Bicarbonate,dynamic,continuous,0.0595669177659016
-13,Abnormal Bicarbonate,dynamic,categorical,0.13397562304823166
-14,Anion Gap,dynamic,continuous,0.08214800812050232
-15,Abnormal Anion Gap,dynamic,categorical,0.10185971154990611
-16,Magnesium,dynamic,continuous,0.04613651597129672
-17,Abnormal Magnesium,dynamic,categorical,0.07365904994439106
-18,Phosphate,dynamic,continuous,0.09535786057358348
-19,Abnormal Phosphate,dynamic,categorical,0.14840296309775552
-20,"Calcium, Total",dynamic,continuous,0.02193064787201521
-21,"Abnormal Calcium, Total",dynamic,categorical,0.11932838177313852
-22,Hematocrit,dynamic,continuous,0.03224793484003844
-23,Abnormal Hematocrit,dynamic,categorical,0.040390972794714465
-24,Hemoglobin,dynamic,continuous,0.031517289336040824
-25,Abnormal Hemoglobin,dynamic,categorical,0.028633419649305866
-26,Platelet Count,dynamic,continuous,0.07831530621024115
-27,Abnormal Platelet Count,dynamic,categorical,0.06502604350237187
-28,White Blood Cells,dynamic,continuous,0.11391600369556219
-29,Abnormal White Blood Cells,dynamic,categorical,0.11797066869877292
-30,MCV,dynamic,continuous,0.007775869577072995
-31,Abnormal MCV,dynamic,categorical,0.03642215088201618
-32,MCHC,dynamic,continuous,0.009432284216867207
-33,Abnormal MCHC,dynamic,categorical,0.07153853521915274
-34,MCH,dynamic,continuous,0.007020792785760408
-35,Abnormal MCH,dynamic,categorical,0.03754974923080366
-36,Red Blood Cells,dynamic,continuous,0.03159275434874573
-37,Abnormal Red Blood Cells,dynamic,categorical,0.03385151169414238
-38,RDW,dynamic,continuous,0.012922940128023927
-39,Abnormal RDW,dynamic,categorical,0.03173036888156627
-40,PTT,dynamic,continuous,0.09096959820657582
-41,Abnormal PTT,dynamic,categorical,0.07700846545865637
-42,INR(PT),dynamic,continuous,0.0816507156657042
-43,Abnormal INR(PT),dynamic,categorical,0.03259402819288227
-44,PT,dynamic,continuous,0.07719177393806205
-45,Abnormal PT,dynamic,categorical,0.031241009700073347
-46,pH,dynamic,continuous,0.016282607032463748
-47,Abnormal pH,dynamic,categorical,0.05564147991074632
-48,RDW-SD,dynamic,continuous,0.008053052247169363
-49,Abnormal RDW-SD,dynamic,categorical,0.008548695884434711
-50,pO2,semi-dynamic,continuous,0.0
-51,Abnormal pO2,semi-dynamic,categorical,0.0
+0,Glucose,dynamic,continuous,0.12738044763061263
+1,Abnormal Glucose,dynamic,categorical,0.1102411003273755
+2,Potassium,dynamic,continuous,0.05064140502742822
+3,Abnormal Potassium,dynamic,categorical,0.11285587731704116
+4,Sodium,dynamic,continuous,0.009609678367996274
+5,Abnormal Sodium,dynamic,categorical,0.09693078148442269
+6,Chloride,dynamic,continuous,0.0157161710076402
+7,Abnormal Chloride,dynamic,categorical,0.10985544561523655
+8,Creatinine,dynamic,continuous,0.08315020571263322
+9,Abnormal Creatinine,dynamic,categorical,0.049556496840191734
+10,Urea Nitrogen,dynamic,continuous,0.12115779669999706
+11,Abnormal Urea Nitrogen,dynamic,categorical,0.04540553926583308
+12,Bicarbonate,dynamic,continuous,0.05577563762626102
+13,Abnormal Bicarbonate,dynamic,categorical,0.12698470096682254
+14,Anion Gap,dynamic,continuous,0.07801722746370679
+15,Abnormal Anion Gap,dynamic,categorical,0.09490725757652295
+16,Magnesium,dynamic,continuous,0.04316956338756195
+17,Abnormal Magnesium,dynamic,categorical,0.06556818876950926
+18,Phosphate,dynamic,continuous,0.08780087980731031
+19,Abnormal Phosphate,dynamic,categorical,0.1443765112535297
+20,"Calcium, Total",dynamic,continuous,0.02001484898236091
+21,"Abnormal Calcium, Total",dynamic,categorical,0.11311587856918863
+22,Hematocrit,dynamic,continuous,0.02998435129223619
+23,Abnormal Hematocrit,dynamic,categorical,0.03997464338103399
+24,Hemoglobin,dynamic,continuous,0.02933794215783304
+25,Abnormal Hemoglobin,dynamic,categorical,0.02790053255219949
+26,Platelet Count,dynamic,continuous,0.07046352552446596
+27,Abnormal Platelet Count,dynamic,categorical,0.058620536264453016
+28,White Blood Cells,dynamic,continuous,0.10755993069619443
+29,Abnormal White Blood Cells,dynamic,categorical,0.11142533963540706
+30,MCV,dynamic,continuous,0.00722294793147632
+31,Abnormal MCV,dynamic,categorical,0.034704897009074066
+32,MCHC,dynamic,continuous,0.009001494088906294
+33,Abnormal MCHC,dynamic,categorical,0.06567643582803709
+34,MCH,dynamic,continuous,0.006801665142771586
+35,Abnormal MCH,dynamic,categorical,0.03551483220884074
+36,Red Blood Cells,dynamic,continuous,0.029430762005727154
+37,Abnormal Red Blood Cells,dynamic,categorical,0.03294450739684397
+38,RDW,dynamic,continuous,0.011561672856449564
+39,Abnormal RDW,dynamic,categorical,0.02658283068988845
+40,PTT,dynamic,continuous,0.08105082484117114
+41,Abnormal PTT,dynamic,categorical,0.07112835823815931
+42,INR(PT),dynamic,continuous,0.0747445131119833
+43,Abnormal INR(PT),dynamic,categorical,0.030506572529097567
+44,PT,dynamic,continuous,0.0708169419698344
+45,Abnormal PT,dynamic,categorical,0.02927121141420841
+46,pH,dynamic,continuous,0.014452492300821998
+47,Abnormal pH,dynamic,categorical,0.0442910823172742
+48,RDW-SD,dynamic,continuous,0.006827558497977752
+49,Abnormal RDW-SD,dynamic,categorical,0.006448487923228811
+50,pO2,dynamic,continuous,0.04359937950979008
+51,Abnormal pO2,dynamic,categorical,0.005447793913682847
 52,admission_location,static,categorical,0.0
 53,insurance,static,categorical,0.0
 54,ethnicity,static,categorical,0.0
